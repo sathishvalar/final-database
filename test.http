@@ -1,0 +1,11 @@
+POST https://localhost:4008/app/signup 
+Content-Type: application/json
+
+{
+    "name":"sathishkumar",
+    "age":"37",
+    "eamil":"kumar.ksathish418@gmail.com",
+    "contact":"8056283683",
+    "consultant":"valarmathi"
+    
+}
